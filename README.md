@@ -70,8 +70,8 @@ Combining LiDAR and camera data has shown potential in enhancing short-distance 
 
     ```
     cd Aydiv/tools
-    scripts/dist_test.sh 8 --cfg_file cfgs/waymo_models/aydiv.yaml  --gpu_id 0,1,2,3,4,5,6,7 --batch_size 28 \
-    --ckpt ../output/waymo_models/aydiv/default/ckpt/checkpoint_epoch_58.pth
+    scripts/dist_test.sh 8 --cfg_file cfgs/waymo_models/aydiv.yaml  --gpu_id 0,1,2,3,4,5,6,7 --batch_size 32 \
+    --ckpt ../output/waymo_models/aydiv/default/ckpt/checkpoint_epoch_68.pth
     ```
 
 # Who to Contact:
