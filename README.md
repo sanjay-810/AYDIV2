@@ -17,7 +17,7 @@ Combining LiDAR and camera data has shown potential in enhancing short-distance 
 1.  Prepare for the running environment. 
 
     You can use the docker image provided by [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet). Our experiments are based on the
-    docker provided by Voxel-R-CNN and we use 8 TITAN V GPUs to train our Aydiv.
+    docker provided by Voxel-R-CNN and we use NVIDIA Tesla V100 to train our Aydiv.
 
 2. Prepare for the data.
 
