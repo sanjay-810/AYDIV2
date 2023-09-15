@@ -21,7 +21,7 @@ Combining LiDAR and camera data has shown potential in enhancing short-distance 
 
 2. Prepare for the data.
 
-    Convert Argoverse 2 (or) waymo open Dataset into kitti format [`converter`]("data_converter/convert")
+    Convert Argoverse 2 (or) waymo open Dataset into kitti format [`converter`](data_converter/convert)
 
     Please prepare dataset as [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet).  
     
