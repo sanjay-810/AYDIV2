@@ -75,7 +75,7 @@ Combining LiDAR and camera data has shown potential in enhancing short-distance 
     ```
 
 # Who to Contact:
-* [sanjay bhargav](sanjay810@iitkgp.ac.in)
+* [sanjay bhargav](sanjay810@iitkgp.ac.in) - sanjay810@iitkgp.ac.in
 
 ### Weights will be provided once the paper is accepted.
 ### Thank you 🙏.
