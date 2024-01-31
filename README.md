@@ -1,4 +1,4 @@
-# AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer (ICRA 2024)(Under Review)
+# AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer (ICRA 2024)(Accepted)
 <p align="center"> <img src='docs/Aydiv_framework.png' align="center" height="300px"> </p>
 
 This is the official implementation of [**AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer**], built on [`Deep Fusion`](https://github.com/tensorflow/lingvo) and [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet) 
@@ -76,6 +76,3 @@ Combining LiDAR and camera data has shown potential in enhancing short-distance 
 
 # Who to Contact:
 **sanjay bhargav** - sanjay810@iitkgp.ac.in
-
-### Weights will be provided once the paper is accepted.
-### Thank you 🙏.
